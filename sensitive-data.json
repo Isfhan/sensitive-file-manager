@@ -1,0 +1,11 @@
+{
+  "accounts": [
+    {
+      "protocol": "ftps",
+      "host": "127.0.0.1",
+      "user": "ftp_user1",
+      "password": "root",
+      "rootPath": "/"
+    }
+  ]
+}

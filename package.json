@@ -1,0 +1,33 @@
+{
+  "name": "sensitive-file-manager",
+  "version": "1.0.0",
+  "description": "A simple package to manage sensitive files",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "node dist/test/index.js"
+  },
+  "keywords": [
+    "sensitive",
+    "file",
+    "manager",
+    "sensitive-file-manager",
+    "encryption",
+    "decryption",
+    "secure",
+    "encryption-file",
+    "decryption-file",
+    "file-manager-sensitive"
+  ],
+  "author": "Isfhan Ahmed",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.13.1",
+    "typescript": "^5.7.3"
+  }
+}
