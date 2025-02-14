@@ -105,7 +105,3 @@ MIT
 
 **sensitive-file-manager** is proudly open source! We welcome contributions from
 the community to help improve and expand the functionality of this package.
-
-```
-
-```
